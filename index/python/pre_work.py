@@ -8,7 +8,7 @@ sys.setdefaultencoding('utf-8')
 
 input_path = '../data/input/'
 output_path = '../data/tmp/raw_input'
-url_prefix = 'https://www.boost.org/doc/libs/1_53_0/doc/'
+url_prefix = ''
 
 ##过滤HTML中的标签
 #将HTML中标签等信息去掉
@@ -101,6 +101,7 @@ def write_result(result, output_file):
     '把三元组当做一行写入到输出文件中'
     if result[0] and result[1] and result[2]:
         output_file.write(result[0] + '\3' + result[1] + '\3' + result[2] + '\n')
+
 
 def run():
     '预处理操作的入口'

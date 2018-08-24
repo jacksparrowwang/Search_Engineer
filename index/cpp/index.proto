@@ -24,7 +24,8 @@ message DocInfo {
 message Weight {
   required uint64 doc_id = 1;
   required int32 weight = 2;
-  // TODO 后面还需要补充一些其他字段方便我们计算 weight 值
+  // 该关键词在正文中第一次出现的位置
+  required int32 first_pos = 3;  
 }
 
 message KwdInfo {
