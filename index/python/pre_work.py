@@ -6,9 +6,9 @@ import sys
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
-input_path = '../data/input/'
+input_path = '../data/input'
 output_path = '../data/tmp/raw_input'
-url_prefix = ''
+url_prefix = 'http://xian.cncn.com/jingdian/'
 
 ##过滤HTML中的标签
 #将HTML中标签等信息去掉
@@ -70,8 +70,6 @@ def enum_file(input_path):
     for basedir, dirnames, filenames in os.walk(input_path):
         for f in filenames:
             # 只关注扩展名为 html 的文件
-            if os.path.splitext(f)[-1] != '.html':
-                continue
             file_list.append(basedir + '/' + f)
     return file_list
 
@@ -110,6 +108,7 @@ def run():
     with open(output_path, 'w') as output_file:
         # 2. 针对每一个文件, 解析其中的内容
         for f in file_list:
+            print f
             result = parse_file(f)
             # 3. 把内容写入到最终的输出结果中
             write_result(result, output_file)

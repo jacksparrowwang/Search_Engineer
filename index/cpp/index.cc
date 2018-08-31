@@ -1,5 +1,5 @@
 #include <fstream>
-#include <unsys/base/base.h>
+#include <base/base.h>
 #include "index.h"
 
 // 此处词典的路径一会再具体考虑

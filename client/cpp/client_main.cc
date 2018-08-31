@@ -1,10 +1,10 @@
-#include <unsys/base/base.h>
-#include <unsys/sofa/pbrpc/pbrpc.h>
-#include <unsys/ctemplate/template.h>
+#include <base/base.h>
+#include <sofa/pbrpc/pbrpc.h>
+#include <ctemplate/template.h>
 #include "../../common/util.hpp"
 #include "server.pb.h"
 
-DEFINE_string(server_addr, "127.0.0.1:10000",
+DEFINE_string(server_addr, "127.0.0.1:8085",
               "请求的搜索服务器的地址");
 DEFINE_string(template_path,
               "./wwwroot/front/template/search_page.html",

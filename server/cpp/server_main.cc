@@ -1,5 +1,5 @@
-#include <unsys/base/base.h>
-#include <unsys/sofa/pbrpc/pbrpc.h>
+#include <base/base.h>
+#include <sofa/pbrpc/pbrpc.h>
 #include "../../common/util.hpp"
 #include "server.pb.h"
 #include "doc_searcher.h"
