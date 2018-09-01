@@ -4,7 +4,7 @@
 #include "server.pb.h"
 #include "doc_searcher.h"
 
-DEFINE_string(port, "10000", "服务器端口号");
+DEFINE_string(port, "8085", "服务器端口号");
 DEFINE_string(index_path, "../index/index_file",
               "索引文件的路径");
 

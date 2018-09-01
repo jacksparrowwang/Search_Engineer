@@ -3,17 +3,91 @@
 #include <ctemplate/template.h>
 #include "../../common/util.hpp"
 #include "server.pb.h"
-
+#define MAX_ 1024
 DEFINE_string(server_addr, "127.0.0.1:8085",
               "请求的搜索服务器的地址");
 DEFINE_string(template_path,
-              "./wwwroot/front/template/search_page.html",
+              "./root/Search_Engineer/front/template/search_page.html",
               "模板文件的路径");
 
 namespace doc_client {
 
 typedef doc_server_proto::Request Request;
 typedef doc_server_proto::Response Response;
+
+int hex2dec(char c) {  
+    if ('0' <= c && c <= '9') {  
+        return c - '0';  
+    } else if ('a' <= c && c <= 'f') {  
+        return c - 'a' + 10;  
+    } else if ('A' <= c && c <= 'F') {  
+        return c - 'A' + 10;  
+    } else {  
+        return -1;  
+    }  
+} 
+
+char dec2hex(short int c)  
+{  
+    if (0 <= c && c <= 9) {  
+        return c + '0';  
+    } else if (10 <= c && c <= 15) {  
+        return c + 'A' - 10;  
+    } else {  
+        return -1;  
+    }  
+} 
+
+void decoding(char url[])  
+{  
+    int i = 0;  
+    int len = strlen(url);  
+    int res_len = 0;  
+    char res[MAX_];  
+    for (i = 0; i < len; ++i) {  
+        char c = url[i];  
+        if (('0' <= c && c <= '9') ||  
+            ('a' <= c && c <= 'z') ||  
+            ('A' <= c && c <= 'Z') || c == '/' || c == '.') {  
+            res[res_len++] = c;  
+        } else {  
+            int j = (short int)c;  
+            if (j < 0)  
+                j += 256;  
+            int i1, i0;  
+            i1 = j / 16;  
+            i0 = j - i1 * 16;  
+            res[res_len++] = '%';  
+            res[res_len++] = dec2hex(i1);  
+            res[res_len++] = dec2hex(i0);  
+        }  
+    }  
+    res[res_len] = '\0';  
+    strcpy(url, res);  
+}  
+
+void decode(char url[])  
+{  
+    int i = 0;  
+    int len = strlen(url);  
+    int res_len = 0;  
+    char res[MAX_];  
+    for (i = 0; i < len; ++i) {  
+        char c = url[i];  
+        if (c != '%') {  
+            res[res_len++] = c;  
+        } else {   
+            char c1 = url[++i];  
+            char c0 = url[++i];  
+            int num = 0;  
+            num = hex2dec(c1) * 16 + hex2dec(c0);  
+            res[res_len++] = num;  
+        }  
+    }  
+    res[res_len] = '\0';  
+    strcpy(url, res);  
+} 
+
 
 int GetQueryString(char output[]) {
   // 1. 先从环境变量中获取到方法
@@ -30,6 +104,9 @@ int GetQueryString(char output[]) {
       fprintf(stderr, "QUERY_STRING failed\n");
       return -1;
     }
+    fprintf(stderr, "%s\n", query_string);
+    decode(query_string);
+    fprintf(stderr, "%s\n", query_string);
     strcpy(output, query_string);
   } else {
     // 3. 如果是 POST 方法, 先通过环境变量获取到 CONTENT_LENGTH

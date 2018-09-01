@@ -8,7 +8,7 @@ sys.setdefaultencoding('utf-8')
 
 input_path = '../data/input'
 output_path = '../data/tmp/raw_input'
-url_prefix = 'http://xian.cncn.com/jingdian/'
+url_prefix = 'http://xian.cncn.com/jingdian'
 
 ##过滤HTML中的标签
 #将HTML中标签等信息去掉
@@ -77,7 +77,7 @@ def enum_file(input_path):
 def parse_url(file_path):
     # input_path = ../data/input/
     # file_path = ../data/input/html/intrusive/list.html
-    return url_prefix + file_path[len(input_path):]
+    return url_prefix + file_path[len(input_path):]+"/"
 
 
 def parse_title(html):

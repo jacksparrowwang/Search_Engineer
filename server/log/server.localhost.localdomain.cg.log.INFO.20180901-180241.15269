@@ -1,0 +1,752 @@
+Log file created at: 2018/09/01 18:02:41
+Running on machine: localhost.localdomain
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0901 18:02:41.719292 15269 index.cc:240] Index Load
+I0901 18:02:42.067729 15269 index.cc:246] Index Load Done
+I0901 18:02:42.067766 15269 server_main.cc:48] Index Load Done!
+I0901 18:02:42.273732 15269 server_main.cc:63] server start
+I0901 18:03:43.379292 15272 doc_searcher.cc:30] CutQuery Done! sid=0
+I0901 18:03:43.379519 15272 doc_searcher.cc:142] [Request]sid: 0
+timestamp: 1535796223
+query: "南山"
+I0901 18:03:43.379567 15272 doc_searcher.cc:143] [Response]sid: 0
+timestamp: 1535796223
+item {
+  title: "金丝大峡谷国家森林公园介绍_金丝峡简介"
+  desc: " 金丝大峡谷国家森林公园简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：120元。A.免费政策：儿童身高1.2米以�..."
+  show_url: "http://Shangluo.cncn.com/jingdian/jinsixia/"
+  jump_url: "http://Shangluo.cncn.com/jingdian/jinsixia/"
+}
+err_code: 0
+I0901 18:04:09.168201 15272 doc_searcher.cc:30] CutQuery Done! sid=0
+I0901 18:04:09.168349 15272 doc_searcher.cc:142] [Request]sid: 0
+timestamp: 1535796248
+query: "宝塔上"
+I0901 18:04:09.168371 15272 doc_searcher.cc:143] [Response]sid: 0
+timestamp: 1535796249
+item {
+  title: "延安宝塔山介绍_宝塔山简介"
+  desc: " 延安宝塔山简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：普通门票60元 ，军人、学生、离退休人员优惠，�..."
+  show_url: "http://Yanan.cncn.com/jingdian/baotashan/"
+  jump_url: "http://Yanan.cncn.com/jingdian/baotashan/"
+}
+item {
+  title: "宝鸡法门寺介绍_法门寺简介"
+  desc: " 宝鸡法门寺简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：旺季（3月-11月底）120元，淡季（12月-次年2月底）9..."
+  show_url: "http://Baoji.cncn.com/jingdian/famensi/"
+  jump_url: "http://Baoji.cncn.com/jingdian/famensi/"
+}
+err_code: 0
+I0901 18:05:57.500020 15272 doc_searcher.cc:30] CutQuery Done! sid=0
+I0901 18:05:57.500118 15272 doc_searcher.cc:142] [Request]sid: 0
+timestamp: 1535796357
+query: "貂蝉"
+I0901 18:05:57.500129 15272 doc_searcher.cc:143] [Response]sid: 0
+timestamp: 1535796357
+err_code: 0
+I0901 18:06:13.256026 15272 doc_searcher.cc:30] CutQuery Done! sid=0
+I0901 18:06:13.257668 15272 doc_searcher.cc:142] [Request]sid: 0
+timestamp: 1535796372
+query: "华山"
+I0901 18:06:13.257800 15272 doc_searcher.cc:143] [Response]sid: 0
+timestamp: 1535796373
+item {
+  title: "陕西渭南华山景区介绍_华山简介"
+  desc: " 陕西渭南华山景区简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：华山门票实行淡旺季价格，旺季(3月1日-11月..."
+  show_url: "http://Weinan.cncn.com/jingdian/huashan/"
+  jump_url: "http://Weinan.cncn.com/jingdian/huashan/"
+}
+item {
+  title: "秦岭观华山介绍_观华山简介"
+  desc: " 秦岭观华山简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：欣欣成人门票价：40元起（省10元）；\r 欣欣儿童门..."
+  show_url: "http://Shangluo.cncn.com/jingdian/qinlingguanhuashan/"
+  jump_url: "http://Shangluo.cncn.com/jingdian/qinlingguanhuashan/"
+}
+item {
+  title: "秦岭观华山介绍_观华山简介"
+  desc: " 秦岭观华山简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：欣欣成人门票价：40元起（省10元）；\r 欣欣儿童门..."
+  show_url: "http://Shangluo.cncn.com/jingdian/qinlingguanhuashan/"
+  jump_url: "http://Shangluo.cncn.com/jingdian/qinlingguanhuashan/"
+}
+item {
+  title: "少华山森林公园介绍_少华山森林公园简介"
+  desc: " 少华山森林公园简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：淡季门票60元/人。淡季（12月1日至次年2月底�..."
+  show_url: "http://Weinan.cncn.com/jingdian/shaohuashansenlingongyuan/"
+  jump_url: "http://Weinan.cncn.com/jingdian/shaohuashansenlingongyuan/"
+}
+item {
+  title: "华山北峰云台峰介绍_华山北峰简介"
+  desc: " 华山北峰云台峰简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：包含在华山门票内    华山北峰简介：    北�..."
+  show_url: "http://Weinan.cncn.com/jingdian/huashanbeifeng/"
+  jump_url: "http://Weinan.cncn.com/jingdian/huashanbeifeng/"
+}
+item {
+  title: "华山北峰云台峰介绍_华山北峰简介"
+  desc: " 华山北峰云台峰简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：包含在华山门票内    华山北峰简介：    北�..."
+  show_url: "http://Weinan.cncn.com/jingdian/huashanbeifeng/"
+  jump_url: "http://Weinan.cncn.com/jingdian/huashanbeifeng/"
+}
+item {
+  title: "华山西峰莲花峰介绍_华山西峰简介"
+  desc: " 华山西峰莲花峰简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：包含在华山门票内    华山西峰简介：    华�..."
+  show_url: "http://Weinan.cncn.com/jingdian/huashanxifeng/"
+  jump_url: "http://Weinan.cncn.com/jingdian/huashanxifeng/"
+}
+item {
+  title: "华山西峰莲花峰介绍_华山西峰简介"
+  desc: " 华山西峰莲花峰简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：包含在华山门票内    华山西峰简介：    华�..."
+  show_url: "http://Weinan.cncn.com/jingdian/huashanxifeng/"
+  jump_url: "http://Weinan.cncn.com/jingdian/huashanxifeng/"
+}
+item {
+  title: "华山中峰玉女峰介绍_华山中峰玉女简介"
+  desc: " 华山中峰玉女峰简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：包含在华山门票内    华山中峰玉女简介：   ..."
+  show_url: "http://Weinan.cncn.com/jingdian/huashanzhongfeng/"
+  jump_url: "http://Weinan.cncn.com/jingdian/huashanzhongfeng/"
+}
+item {
+  title: "华山中峰玉女峰介绍_华山中峰玉女简介"
+  desc: " 华山中峰玉女峰简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：包含在华山门票内    华山中峰玉女简介：   ..."
+  show_url: "http://Weinan.cncn.com/jingdian/huashanzhongfeng/"
+  jump_url: "http://Weinan.cncn.com/jingdian/huashanzhongfeng/"
+}
+item {
+  title: "华山南峰落雁峰介绍_华山南峰简介"
+  desc: " 华山南峰落雁峰简介  http://www.cncn.com    欣欣旅游网    门票·开放时间： 包含在华山门票内    华山南峰简介：南峰又..."
+  show_url: "http://Weinan.cncn.com/jingdian/huashannanfeng/"
+  jump_url: "http://Weinan.cncn.com/jingdian/huashannanfeng/"
+}
+item {
+  title: "华山南峰落雁峰介绍_华山南峰简介"
+  desc: " 华山南峰落雁峰简介  http://www.cncn.com    欣欣旅游网    门票·开放时间： 包含在华山门票内    华山南峰简介：南峰又..."
+  show_url: "http://Weinan.cncn.com/jingdian/huashannanfeng/"
+  jump_url: "http://Weinan.cncn.com/jingdian/huashannanfeng/"
+}
+item {
+  title: "华山东峰朝阳峰介绍_华山东峰简介"
+  desc: " 华山东峰朝阳峰简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：包含在华山门票内    华山东峰简介： 朝阳峰�..."
+  show_url: "http://Weinan.cncn.com/jingdian/huashandongfeng/"
+  jump_url: "http://Weinan.cncn.com/jingdian/huashandongfeng/"
+}
+item {
+  title: "华山东峰朝阳峰介绍_华山东峰简介"
+  desc: " 华山东峰朝阳峰简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：包含在华山门票内    华山东峰简介： 朝阳峰�..."
+  show_url: "http://Weinan.cncn.com/jingdian/huashandongfeng/"
+  jump_url: "http://Weinan.cncn.com/jingdian/huashandongfeng/"
+}
+item {
+  title: "华山苍龙岭介绍_苍龙岭简介"
+  desc: " 华山苍龙岭简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：包含在华山门票里    苍龙岭简介：    它莽莽苍�..."
+  show_url: "http://Weinan.cncn.com/jingdian/canglongling/"
+  jump_url: "http://Weinan.cncn.com/jingdian/canglongling/"
+}
+item {
+  title: "华山苍龙岭介绍_苍龙岭简介"
+  desc: " 华山苍龙岭简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：包含在华山门票里    苍龙岭简介：    它莽莽苍�..."
+  show_url: "http://Weinan.cncn.com/jingdian/canglongling/"
+  jump_url: "http://Weinan.cncn.com/jingdian/canglongling/"
+}
+item {
+  title: "华山鹞子翻身介绍_鹞子翻身简介"
+  desc: " 华山鹞子翻身简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：包含在华山门票内    鹞子翻身简介：    鹞子�..."
+  show_url: "http://Weinan.cncn.com/jingdian/yaozifanshen/"
+  jump_url: "http://Weinan.cncn.com/jingdian/yaozifanshen/"
+}
+item {
+  title: "华山鹞子翻身介绍_鹞子翻身简介"
+  desc: " 华山鹞子翻身简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：包含在华山门票内    鹞子翻身简介：    鹞子�..."
+  show_url: "http://Weinan.cncn.com/jingdian/yaozifanshen/"
+  jump_url: "http://Weinan.cncn.com/jingdian/yaozifanshen/"
+}
+item {
+  title: "长空栈道介绍_长空栈道简介"
+  desc: " 长空栈道简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：包含在华山西山门：24小时全天开放； 东山门索道：..."
+  show_url: "http://Weinan.cncn.com/jingdian/changkongzhandao/"
+  jump_url: "http://Weinan.cncn.com/jingdian/changkongzhandao/"
+}
+item {
+  title: "华山金锁关介绍_金锁关简介"
+  desc: " 华山金锁关简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：包含在华山门票里    金锁关简介：    金锁关是�..."
+  show_url: "http://Weinan.cncn.com/jingdian/jinsuoguan/"
+  jump_url: "http://Weinan.cncn.com/jingdian/jinsuoguan/"
+}
+item {
+  title: "华山金锁关介绍_金锁关简介"
+  desc: " 华山金锁关简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：包含在华山门票里    金锁关简介：    金锁关是�..."
+  show_url: "http://Weinan.cncn.com/jingdian/jinsuoguan/"
+  jump_url: "http://Weinan.cncn.com/jingdian/jinsuoguan/"
+}
+item {
+  title: "华山御温泉度假村介绍_华山御温泉简介"
+  desc: " 华山御温泉度假村简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：欣欣成人票价：115元起（省13元）；\r 欣欣�..."
+  show_url: "http://Weinan.cncn.com/jingdian/huashanyuwenquan/"
+  jump_url: "http://Weinan.cncn.com/jingdian/huashanyuwenquan/"
+}
+item {
+  title: "渭南韩城党家村民居介绍_党家村简介"
+  desc: " 渭南韩城党家村民居简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：欣欣成人门票价：42元起（省18元）；\r 特..."
+  show_url: "http://Weinan.cncn.com/jingdian/dangjiacun/"
+  jump_url: "http://Weinan.cncn.com/jingdian/dangjiacun/"
+}
+item {
+  title: "玉华宫滑雪场介绍_玉华宫滑雪场简介"
+  desc: " 玉华宫滑雪场简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：玉华宫欣欣门票价-淡季：35元（省15元）；\r 玉�..."
+  show_url: "http://Tongchuan.cncn.com/jingdian/yuhuagonghuaxuechang/"
+  jump_url: "http://Tongchuan.cncn.com/jingdian/yuhuagonghuaxuechang/"
+}
+item {
+  title: "玉华宫滑雪场介绍_玉华宫滑雪场简介"
+  desc: " 玉华宫滑雪场简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：玉华宫欣欣门票价-淡季：35元（省15元）；\r 玉�..."
+  show_url: "http://Tongchuan.cncn.com/jingdian/yuhuagonghuaxuechang/"
+  jump_url: "http://Tongchuan.cncn.com/jingdian/yuhuagonghuaxuechang/"
+}
+item {
+  title: "铜川玉华宫介绍_玉华宫简介"
+  desc: " 铜川玉华宫简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：欣欣淡季门票价：35元起（省15元）；\r 欣欣旺季门..."
+  show_url: "http://Tongchuan.cncn.com/jingdian/yuhuagong/"
+  jump_url: "http://Tongchuan.cncn.com/jingdian/yuhuagong/"
+}
+item {
+  title: "旬邑唐家民俗博物馆介绍_旬邑唐家民俗博物馆简介"
+  desc: " 旬邑唐家民俗博物馆简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：15元白天工作时间 交通概况：自驾路线：..."
+  show_url: "http://Xianyang.cncn.com/jingdian/xunyitangjiaminsubowuguan/"
+  jump_url: "http://Xianyang.cncn.com/jingdian/xunyitangjiaminsubowuguan/"
+}
+item {
+  title: "旬邑唐家民俗博物馆介绍_旬邑唐家民俗博物馆简介"
+  desc: " 旬邑唐家民俗博物馆简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：15元白天工作时间 交通概况：自驾路线：..."
+  show_url: "http://Xianyang.cncn.com/jingdian/xunyitangjiaminsubowuguan/"
+  jump_url: "http://Xianyang.cncn.com/jingdian/xunyitangjiaminsubowuguan/"
+}
+item {
+  title: "渭南合阳洽川介绍_合阳洽川简介"
+  desc: " 渭南合阳洽川简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：欣欣价-洽川风景区福山景区成人票：24元起（省..."
+  show_url: "http://Weinan.cncn.com/jingdian/heyangqiachuan/"
+  jump_url: "http://Weinan.cncn.com/jingdian/heyangqiachuan/"
+}
+item {
+  title: "万花山介绍_万花山简介"
+  desc: " 万花山简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：40元\r A.免票政策：身高1.2米以下儿童免费；军人持军官..."
+  show_url: "http://Yanan.cncn.com/jingdian/wanhuashan/"
+  jump_url: "http://Yanan.cncn.com/jingdian/wanhuashan/"
+}
+item {
+  title: "铜川玉华宫介绍_玉华宫简介"
+  desc: " 铜川玉华宫简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：欣欣淡季门票价：35元起（省15元）；\r 欣欣旺季门..."
+  show_url: "http://Tongchuan.cncn.com/jingdian/yuhuagong/"
+  jump_url: "http://Tongchuan.cncn.com/jingdian/yuhuagong/"
+}
+item {
+  title: "商洛老君山介绍_老君山简介"
+  desc: " 商洛老君山简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：50元/人。1、儿童票：1.3米以下免票。 　　\r 2、70�..."
+  show_url: "http://Shangluo.cncn.com/jingdian/laojunshan/"
+  jump_url: "http://Shangluo.cncn.com/jingdian/laojunshan/"
+}
+item {
+  title: "丹凤凤冠山石窟介绍_凤冠山石窟简介"
+  desc: " 丹凤凤冠山石窟简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：欣欣成人门票价：48元起（省12元）。\r A.免费�..."
+  show_url: "http://Shangluo.cncn.com/jingdian/danfengfengguanshanshiku/"
+  jump_url: "http://Shangluo.cncn.com/jingdian/danfengfengguanshanshiku/"
+}
+item {
+  title: "商洛老君山介绍_老君山简介"
+  desc: " 商洛老君山简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：50元/人。1、儿童票：1.3米以下免票。 　　\r 2、70�..."
+  show_url: "http://Shangluo.cncn.com/jingdian/laojunshan/"
+  jump_url: "http://Shangluo.cncn.com/jingdian/laojunshan/"
+}
+err_code: 0
+I0901 18:14:57.148177 15272 doc_searcher.cc:30] CutQuery Done! sid=0
+I0901 18:14:57.152477 15272 doc_searcher.cc:142] [Request]sid: 0
+timestamp: 1535796896
+query: "西安"
+I0901 18:14:57.153081 15272 doc_searcher.cc:143] [Response]sid: 0
+timestamp: 1535796897
+item {
+  title: "西安事变纪念馆介绍_西安事变纪念馆简介"
+  desc: " 西安事变纪念馆简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：\r     免费开放（目前正在维修，预计08年10�..."
+  show_url: "http://Xian.cncn.com/jingdian/xianshibianjinianguan/"
+  jump_url: "http://Xian.cncn.com/jingdian/xianshibianjinianguan/"
+}
+item {
+  title: "西安事变纪念馆介绍_西安事变纪念馆简介"
+  desc: " 西安事变纪念馆简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：\r     免费开放（目前正在维修，预计08年10�..."
+  show_url: "http://Xian.cncn.com/jingdian/xianshibianjinianguan/"
+  jump_url: "http://Xian.cncn.com/jingdian/xianshibianjinianguan/"
+}
+item {
+  title: "西安碑林博物馆介绍_西安碑林博物馆简介"
+  desc: " 西安碑林博物馆简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：75元。A.免票政策：儿童身高1.2米以下免票；70..."
+  show_url: "http://Xian.cncn.com/jingdian/xianbeilinbowuguan/"
+  jump_url: "http://Xian.cncn.com/jingdian/xianbeilinbowuguan/"
+}
+item {
+  title: "西安秦岭野生动物园介绍_秦岭野生动物园简介"
+  desc: " 西安秦岭野生动物园简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：动物园成人票+恐龙熊猫馆：150元\r A.免票�..."
+  show_url: "http://Xian.cncn.com/jingdian/qinlingyeshengdongwuyuan/"
+  jump_url: "http://Xian.cncn.com/jingdian/qinlingyeshengdongwuyuan/"
+}
+item {
+  title: "西安大雁塔介绍_大雁塔简介"
+  desc: " 西安大雁塔简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：淡季20元，旺季25元。登塔需另加20元。旺季：8：00..."
+  show_url: "http://Xian.cncn.com/jingdian/dayanta/"
+  jump_url: "http://Xian.cncn.com/jingdian/dayanta/"
+}
+item {
+  title: "西安临潼骊山介绍_临潼骊山简介"
+  desc: " 西安临潼骊山简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：70元每人次，学生证享受半价优惠45元每人次；�..."
+  show_url: "http://Xian.cncn.com/jingdian/lintonglishan/"
+  jump_url: "http://Xian.cncn.com/jingdian/lintonglishan/"
+}
+item {
+  title: "西安临潼骊山介绍_临潼骊山简介"
+  desc: " 西安临潼骊山简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：70元每人次，学生证享受半价优惠45元每人次；�..."
+  show_url: "http://Xian.cncn.com/jingdian/lintonglishan/"
+  jump_url: "http://Xian.cncn.com/jingdian/lintonglishan/"
+}
+item {
+  title: "西安钟鼓楼介绍_钟鼓楼简介"
+  desc: " 西安钟鼓楼简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：门市价20元/人，①18岁以下凭证件免票\r ②老人票65..."
+  show_url: "http://Xian.cncn.com/jingdian/zhonggulou/"
+  jump_url: "http://Xian.cncn.com/jingdian/zhonggulou/"
+}
+item {
+  title: "西安钟鼓楼介绍_钟鼓楼简介"
+  desc: " 西安钟鼓楼简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：门市价20元/人，①18岁以下凭证件免票\r ②老人票65..."
+  show_url: "http://Xian.cncn.com/jingdian/zhonggulou/"
+  jump_url: "http://Xian.cncn.com/jingdian/zhonggulou/"
+}
+item {
+  title: "西安明城墙介绍_西安明城墙简介"
+  desc: " 西安明城墙简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：40元春夏季：8:00~22:00；秋冬季：8:00~19:00 交通概况�..."
+  show_url: "http://Xian.cncn.com/jingdian/xianmingchengqiang/"
+  jump_url: "http://Xian.cncn.com/jingdian/xianmingchengqiang/"
+}
+item {
+  title: "西安华清池介绍_华清池简介"
+  desc: " 西安华清池简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：3月1日--11月31日,执行旺季价格110元/人；12月1日--次..."
+  show_url: "http://Xian.cncn.com/jingdian/huaqingchi/"
+  jump_url: "http://Xian.cncn.com/jingdian/huaqingchi/"
+}
+item {
+  title: "西安大唐芙蓉园介绍_大唐芙蓉园简介"
+  desc: " 西安大唐芙蓉园简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：欣欣成人门票价：83元起（省37元）；\r 特惠政..."
+  show_url: "http://Xian.cncn.com/jingdian/datangfurongyuan/"
+  jump_url: "http://Xian.cncn.com/jingdian/datangfurongyuan/"
+}
+item {
+  title: "西安秦陵地宫展览馆介绍_秦陵地宫简介"
+  desc: " 西安秦陵地宫展览馆简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：成人票40元9:00-17:00 交通概况：公交： 1、..."
+  show_url: "http://Xian.cncn.com/jingdian/qinlingdigong/"
+  jump_url: "http://Xian.cncn.com/jingdian/qinlingdigong/"
+}
+item {
+  title: "富平陶艺村介绍_富平陶艺村简介"
+  desc: " 富平陶艺村简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：欣欣价-富平陶艺村成人门票：75元起（省15元）；\r..."
+  show_url: "http://Weinan.cncn.com/jingdian/fupingtaoyicun/"
+  jump_url: "http://Weinan.cncn.com/jingdian/fupingtaoyicun/"
+}
+item {
+  title: "北院门（回民街）介绍_回民街简介"
+  desc: " 北院门（回民街）简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：无需门票。无论白天还是夜间，游客都能在..."
+  show_url: "http://Xian.cncn.com/jingdian/huiminjie/"
+  jump_url: "http://Xian.cncn.com/jingdian/huiminjie/"
+}
+item {
+  title: "北院门（回民街）介绍_回民街简介"
+  desc: " 北院门（回民街）简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：无需门票。无论白天还是夜间，游客都能在..."
+  show_url: "http://Xian.cncn.com/jingdian/huiminjie/"
+  jump_url: "http://Xian.cncn.com/jingdian/huiminjie/"
+}
+item {
+  title: "大明宫遗址介绍_大明宫遗址简介"
+  desc: " 大明宫遗址简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：欣欣成人门票价（含3D电影）：63元起（省27元）。..."
+  show_url: "http://Xian.cncn.com/jingdian/daminggongyizhi/"
+  jump_url: "http://Xian.cncn.com/jingdian/daminggongyizhi/"
+}
+item {
+  title: "大明宫遗址介绍_大明宫遗址简介"
+  desc: " 大明宫遗址简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：欣欣成人门票价（含3D电影）：63元起（省27元）。..."
+  show_url: "http://Xian.cncn.com/jingdian/daminggongyizhi/"
+  jump_url: "http://Xian.cncn.com/jingdian/daminggongyizhi/"
+}
+item {
+  title: "华山御温泉度假村介绍_华山御温泉简介"
+  desc: " 华山御温泉度假村简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：欣欣成人票价：115元起（省13元）；\r 欣欣�..."
+  show_url: "http://Weinan.cncn.com/jingdian/huashanyuwenquan/"
+  jump_url: "http://Weinan.cncn.com/jingdian/huashanyuwenquan/"
+}
+item {
+  title: "秦始皇兵马俑介绍_兵马俑简介"
+  desc: " 秦始皇兵马俑简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：兵马俑和秦始皇陵已经合并成一个景点，通票150..."
+  show_url: "http://Xian.cncn.com/jingdian/bingmayong/"
+  jump_url: "http://Xian.cncn.com/jingdian/bingmayong/"
+}
+item {
+  title: "陕西黄河壶口瀑布介绍_壶口瀑布简介"
+  desc: " 陕西黄河壶口瀑布简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：91元/人08：00～18：00 交通概况：从西安出发..."
+  show_url: "http://Yanan.cncn.com/jingdian/hukoupubu/"
+  jump_url: "http://Yanan.cncn.com/jingdian/hukoupubu/"
+}
+item {
+  title: "陕西渭南华山景区介绍_华山简介"
+  desc: " 陕西渭南华山景区简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：华山门票实行淡旺季价格，旺季(3月1日-11月..."
+  show_url: "http://Weinan.cncn.com/jingdian/huashan/"
+  jump_url: "http://Weinan.cncn.com/jingdian/huashan/"
+}
+item {
+  title: "咸阳乾陵博物馆介绍_乾陵简介"
+  desc: " 咸阳乾陵博物馆简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：旺季（3月－11月）联票70元，乾陵单票45元，�..."
+  show_url: "http://Xianyang.cncn.com/jingdian/qianling/"
+  jump_url: "http://Xianyang.cncn.com/jingdian/qianling/"
+}
+item {
+  title: "关山牧场介绍_关山牧场简介"
+  desc: " 关山牧场简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：    20元 交通概况：    1、从宝鸡汽车北站乘坐到..."
+  show_url: "http://Baoji.cncn.com/jingdian/guanshanmuchang/"
+  jump_url: "http://Baoji.cncn.com/jingdian/guanshanmuchang/"
+}
+item {
+  title: "宝鸡法门寺介绍_法门寺简介"
+  desc: " 宝鸡法门寺简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：旺季（3月-11月底）120元，淡季（12月-次年2月底）9..."
+  show_url: "http://Baoji.cncn.com/jingdian/famensi/"
+  jump_url: "http://Baoji.cncn.com/jingdian/famensi/"
+}
+item {
+  title: "小雁塔介绍_小雁塔简介"
+  desc: " 小雁塔简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：50元；学生票、儿童票25元；包含项目：西安博物院，�..."
+  show_url: "http://Xian.cncn.com/jingdian/xiaoyanta/"
+  jump_url: "http://Xian.cncn.com/jingdian/xiaoyanta/"
+}
+item {
+  title: "铜川药王故里介绍_药王故里简介"
+  desc: " 铜川药王故里简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：\r     20元 交通概况：\r     铜川市内乘18路公�..."
+  show_url: "http://Tongchuan.cncn.com/jingdian/yaowangguli/"
+  jump_url: "http://Tongchuan.cncn.com/jingdian/yaowangguli/"
+}
+item {
+  title: "汉江燕翔洞生态旅游景区介绍_汉江燕翔洞简介"
+  desc: " 汉江燕翔洞生态旅游景区简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：欣欣成人门票价：65元起（省5元）-�..."
+  show_url: "http://Ankang.cncn.com/jingdian/hanjiangyanxiangdong/"
+  jump_url: "http://Ankang.cncn.com/jingdian/hanjiangyanxiangdong/"
+}
+item {
+  title: "关山牧场介绍_关山牧场简介"
+  desc: " 关山牧场简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：    20元 交通概况：    1、从宝鸡汽车北站乘坐到..."
+  show_url: "http://Baoji.cncn.com/jingdian/guanshanmuchang/"
+  jump_url: "http://Baoji.cncn.com/jingdian/guanshanmuchang/"
+}
+item {
+  title: "长空栈道介绍_长空栈道简介"
+  desc: " 在西安火车站东广场，乘坐旅游专线车“游1路”，票价约25元。8:00火车站东广场出发，途经西岳庙，终点站玉泉院登�..."
+  show_url: "http://Weinan.cncn.com/jingdian/changkongzhandao/"
+  jump_url: "http://Weinan.cncn.com/jingdian/changkongzhandao/"
+}
+item {
+  title: "咸阳茂陵博物馆介绍_茂陵博物馆简介"
+  desc: " 咸阳茂陵博物馆简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：旺季（3月1日到11月30日）80元\r 淡季（12月1日�..."
+  show_url: "http://Xianyang.cncn.com/jingdian/maolingbowuguan/"
+  jump_url: "http://Xianyang.cncn.com/jingdian/maolingbowuguan/"
+}
+item {
+  title: "铜川药王故里介绍_药王故里简介"
+  desc: " 铜川药王故里简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：\r     20元 交通概况：\r     铜川市内乘18路公�..."
+  show_url: "http://Tongchuan.cncn.com/jingdian/yaowangguli/"
+  jump_url: "http://Tongchuan.cncn.com/jingdian/yaowangguli/"
+}
+item {
+  title: "丹凤凤冠山石窟介绍_凤冠山石窟简介"
+  desc: " 丹凤凤冠山石窟简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：欣欣成人门票价：48元起（省12元）。\r A.免费�..."
+  show_url: "http://Shangluo.cncn.com/jingdian/danfengfengguanshanshiku/"
+  jump_url: "http://Shangluo.cncn.com/jingdian/danfengfengguanshanshiku/"
+}
+item {
+  title: "宝鸡太白山介绍_太白山简介"
+  desc: " 宝鸡太白山简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：太白山森林国家公园\r 旺季（3月1日-11月底）100元\r ..."
+  show_url: "http://Baoji.cncn.com/jingdian/taibaishan/"
+  jump_url: "http://Baoji.cncn.com/jingdian/taibaishan/"
+}
+item {
+  title: "玉华宫滑雪场介绍_玉华宫滑雪场简介"
+  desc: " 玉华宫滑雪场简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：玉华宫欣欣门票价-淡季：35元（省15元）；\r 玉�..."
+  show_url: "http://Tongchuan.cncn.com/jingdian/yuhuagonghuaxuechang/"
+  jump_url: "http://Tongchuan.cncn.com/jingdian/yuhuagonghuaxuechang/"
+}
+item {
+  title: "玉华宫滑雪场介绍_玉华宫滑雪场简介"
+  desc: " 玉华宫滑雪场简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：玉华宫欣欣门票价-淡季：35元（省15元）；\r 玉�..."
+  show_url: "http://Tongchuan.cncn.com/jingdian/yuhuagonghuaxuechang/"
+  jump_url: "http://Tongchuan.cncn.com/jingdian/yuhuagonghuaxuechang/"
+}
+item {
+  title: "铜川玉华宫介绍_玉华宫简介"
+  desc: " 铜川玉华宫简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：欣欣淡季门票价：35元起（省15元）；\r 欣欣旺季门..."
+  show_url: "http://Tongchuan.cncn.com/jingdian/yuhuagong/"
+  jump_url: "http://Tongchuan.cncn.com/jingdian/yuhuagong/"
+}
+item {
+  title: "周公庙景区介绍_周公庙简介"
+  desc: " 周公庙景区简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：免票政策：65岁以上老人持身份证或老年证在售票�..."
+  show_url: "http://Baoji.cncn.com/jingdian/zhougongmiao/"
+  jump_url: "http://Baoji.cncn.com/jingdian/zhougongmiao/"
+}
+item {
+  title: "照金香山介绍_照金香山简介"
+  desc: " 照金香山简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：40元8:00—17:00 交通概况：耀州区华原汽车站40km 耀州�..."
+  show_url: "http://Tongchuan.cncn.com/jingdian/zhaojinxiangshan/"
+  jump_url: "http://Tongchuan.cncn.com/jingdian/zhaojinxiangshan/"
+}
+item {
+  title: "陕西历史博物馆介绍_陕西历史博物馆简介"
+  desc: " 陕西历史博物馆简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：大唐珍宝馆门票20元，壁画馆门票300元\r 免票�..."
+  show_url: "http://Xian.cncn.com/jingdian/shanxilishibowuguan/"
+  jump_url: "http://Xian.cncn.com/jingdian/shanxilishibowuguan/"
+}
+item {
+  title: "铜川玉华宫介绍_玉华宫简介"
+  desc: " 铜川玉华宫简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：欣欣淡季门票价：35元起（省15元）；\r 欣欣旺季门..."
+  show_url: "http://Tongchuan.cncn.com/jingdian/yuhuagong/"
+  jump_url: "http://Tongchuan.cncn.com/jingdian/yuhuagong/"
+}
+item {
+  title: "九天山滑雪场介绍_九天山滑雪场简介"
+  desc: " 九天山滑雪场简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：暂无8:30-17:30 交通概况：自驾路线：\r 1、从西安�..."
+  show_url: "http://Shangluo.cncn.com/jingdian/jiutianshanhuaxuechang/"
+  jump_url: "http://Shangluo.cncn.com/jingdian/jiutianshanhuaxuechang/"
+}
+item {
+  title: "陕西天竺山国家森林公园介绍_天竺山国家森林公园简介"
+  desc: " 陕西天竺山国家森林公园简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：欣欣成人门票价：70元起（省10元）�..."
+  show_url: "http://Shangluo.cncn.com/jingdian/tianzhushanguojiasenlingongyuan/"
+  jump_url: "http://Shangluo.cncn.com/jingdian/tianzhushanguojiasenlingongyuan/"
+}
+item {
+  title: "少华山森林公园介绍_少华山森林公园简介"
+  desc: " 少华山森林公园简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：淡季门票60元/人。淡季（12月1日至次年2月底�..."
+  show_url: "http://Weinan.cncn.com/jingdian/shaohuashansenlingongyuan/"
+  jump_url: "http://Weinan.cncn.com/jingdian/shaohuashansenlingongyuan/"
+}
+item {
+  title: "太白山漂流介绍_太白山漂流简介"
+  desc: " 太白山漂流简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：158元。9:00—16:00 交通概况：西安市—火车站东广�..."
+  show_url: "http://Baoji.cncn.com/jingdian/taibaishanpiaoliu/"
+  jump_url: "http://Baoji.cncn.com/jingdian/taibaishanpiaoliu/"
+}
+item {
+  title: "周公庙景区介绍_周公庙简介"
+  desc: " 周公庙景区简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：免票政策：65岁以上老人持身份证或老年证在售票�..."
+  show_url: "http://Baoji.cncn.com/jingdian/zhougongmiao/"
+  jump_url: "http://Baoji.cncn.com/jingdian/zhougongmiao/"
+}
+item {
+  title: "咸阳汉阳陵介绍_汉阳陵简介"
+  desc: " 咸阳汉阳陵简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：\r     旺季90元；淡季（1、2、12月）65元。景区内�..."
+  show_url: "http://Xianyang.cncn.com/jingdian/hanyangling/"
+  jump_url: "http://Xianyang.cncn.com/jingdian/hanyangling/"
+}
+item {
+  title: "袁家村介绍_袁家村简介"
+  desc: " 袁家村简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：免费全天开放    袁家村简介： 袁家村坐落在礼泉县烟..."
+  show_url: "http://Xianyang.cncn.com/jingdian/yuanjiacun/"
+  jump_url: "http://Xianyang.cncn.com/jingdian/yuanjiacun/"
+}
+item {
+  title: "袁家村介绍_袁家村简介"
+  desc: " 袁家村简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：免费全天开放    袁家村简介： 袁家村坐落在礼泉县烟..."
+  show_url: "http://Xianyang.cncn.com/jingdian/yuanjiacun/"
+  jump_url: "http://Xianyang.cncn.com/jingdian/yuanjiacun/"
+}
+item {
+  title: "九天山滑雪场介绍_九天山滑雪场简介"
+  desc: " 九天山滑雪场简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：暂无8:30-17:30 交通概况：自驾路线：\r 1、从西安�..."
+  show_url: "http://Shangluo.cncn.com/jingdian/jiutianshanhuaxuechang/"
+  jump_url: "http://Shangluo.cncn.com/jingdian/jiutianshanhuaxuechang/"
+}
+item {
+  title: "商洛武关遗址介绍_武关简介"
+  desc: " 商洛武关遗址简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：电话咨询 交通概况：\r     乘西安至商南的班�..."
+  show_url: "http://Shangluo.cncn.com/jingdian/wuguan/"
+  jump_url: "http://Shangluo.cncn.com/jingdian/wuguan/"
+}
+item {
+  title: "商洛武关遗址介绍_武关简介"
+  desc: " 商洛武关遗址简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：电话咨询 交通概况：\r     乘西安至商南的班�..."
+  show_url: "http://Shangluo.cncn.com/jingdian/wuguan/"
+  jump_url: "http://Shangluo.cncn.com/jingdian/wuguan/"
+}
+item {
+  title: "彬县大佛寺介绍_彬县大佛寺简介"
+  desc: " 彬县大佛寺简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：    20元。持2008年陕西旅游年票不限次数免费参�..."
+  show_url: "http://Xianyang.cncn.com/jingdian/binxiandafosi/"
+  jump_url: "http://Xianyang.cncn.com/jingdian/binxiandafosi/"
+}
+item {
+  title: "三原城隍庙介绍_三原城隍庙简介"
+  desc: " 三原城隍庙简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：42元；26元为邮资门票。学生、军人凭证半价，持�..."
+  show_url: "http://Xianyang.cncn.com/jingdian/sanyuanchenghuangmiao/"
+  jump_url: "http://Xianyang.cncn.com/jingdian/sanyuanchenghuangmiao/"
+}
+item {
+  title: "关中十八唐帝陵介绍_关中十八唐帝陵简介"
+  desc: " 关中十八唐帝陵简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：免费，各景点门票不同暂无 交通概况：暂无  ..."
+  show_url: "http://Xianyang.cncn.com/jingdian/guanzhongshibatangdiling/"
+  jump_url: "http://Xianyang.cncn.com/jingdian/guanzhongshibatangdiling/"
+}
+item {
+  title: "关中十八唐帝陵介绍_关中十八唐帝陵简介"
+  desc: " 关中十八唐帝陵简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：免费，各景点门票不同暂无 交通概况：暂无  ..."
+  show_url: "http://Xianyang.cncn.com/jingdian/guanzhongshibatangdiling/"
+  jump_url: "http://Xianyang.cncn.com/jingdian/guanzhongshibatangdiling/"
+}
+item {
+  title: "杨贵妃墓介绍_杨贵妃墓简介"
+  desc: " 杨贵妃墓简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：欣欣成人门票价：40元起（省5元）。\r A.免费政策：�..."
+  show_url: "http://Xianyang.cncn.com/jingdian/xingpingtangyangguifeimu/"
+  jump_url: "http://Xianyang.cncn.com/jingdian/xingpingtangyangguifeimu/"
+}
+item {
+  title: "杨贵妃墓介绍_杨贵妃墓简介"
+  desc: " 杨贵妃墓简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：欣欣成人门票价：40元起（省5元）。\r A.免费政策：�..."
+  show_url: "http://Xianyang.cncn.com/jingdian/xingpingtangyangguifeimu/"
+  jump_url: "http://Xianyang.cncn.com/jingdian/xingpingtangyangguifeimu/"
+}
+item {
+  title: "咸阳海泉湾温泉世界介绍_海泉湾温泉世界简介"
+  desc: " 咸阳海泉湾温泉世界简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：168元/人。10:00—24:00 交通概况：公交：630..."
+  show_url: "http://Xianyang.cncn.com/jingdian/haiquanwanwenquanshijie/"
+  jump_url: "http://Xianyang.cncn.com/jingdian/haiquanwanwenquanshijie/"
+}
+item {
+  title: "咸阳海泉湾温泉世界介绍_海泉湾温泉世界简介"
+  desc: " 咸阳海泉湾温泉世界简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：168元/人。10:00—24:00 交通概况：公交：630..."
+  show_url: "http://Xianyang.cncn.com/jingdian/haiquanwanwenquanshijie/"
+  jump_url: "http://Xianyang.cncn.com/jingdian/haiquanwanwenquanshijie/"
+}
+item {
+  title: "铜川锦阳湖生态园介绍_锦阳湖生态园简介"
+  desc: " 铜川锦阳湖生态园简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：欣欣门票价：10元起。\r A.免票政策：身高1�..."
+  show_url: "http://Tongchuan.cncn.com/jingdian/jinyanghushengtaiyuan/"
+  jump_url: "http://Tongchuan.cncn.com/jingdian/jinyanghushengtaiyuan/"
+}
+item {
+  title: "陈炉古镇介绍_陈炉古镇简介"
+  desc: " 陈炉古镇简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：暂无信息 交通概况：    从西安火车站旁的汽车站�..."
+  show_url: "http://Tongchuan.cncn.com/jingdian/chenluguzhen/"
+  jump_url: "http://Tongchuan.cncn.com/jingdian/chenluguzhen/"
+}
+item {
+  title: "陈炉古镇介绍_陈炉古镇简介"
+  desc: " 陈炉古镇简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：暂无信息 交通概况：    从西安火车站旁的汽车站�..."
+  show_url: "http://Tongchuan.cncn.com/jingdian/chenluguzhen/"
+  jump_url: "http://Tongchuan.cncn.com/jingdian/chenluguzhen/"
+}
+item {
+  title: "铜川福地湖介绍_福地湖简介"
+  desc: " 铜川福地湖简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：\r     门票16元。娱乐项目参考价格：滑索20元，�..."
+  show_url: "http://Tongchuan.cncn.com/jingdian/fudihu/"
+  jump_url: "http://Tongchuan.cncn.com/jingdian/fudihu/"
+}
+item {
+  title: "铜川福地湖介绍_福地湖简介"
+  desc: " 铜川福地湖简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：\r     门票16元。娱乐项目参考价格：滑索20元，�..."
+  show_url: "http://Tongchuan.cncn.com/jingdian/fudihu/"
+  jump_url: "http://Tongchuan.cncn.com/jingdian/fudihu/"
+}
+item {
+  title: "彬县大佛寺介绍_彬县大佛寺简介"
+  desc: " 彬县大佛寺简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：    20元。持2008年陕西旅游年票不限次数免费参�..."
+  show_url: "http://Xianyang.cncn.com/jingdian/binxiandafosi/"
+  jump_url: "http://Xianyang.cncn.com/jingdian/binxiandafosi/"
+}
+item {
+  title: "铜川耀州窑博物馆介绍_耀州窑博物馆简介"
+  desc: " 铜川耀州窑博物馆简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：\r     35元。持2008陕西旅游年票不限次数免..."
+  show_url: "http://Tongchuan.cncn.com/jingdian/yaozhouyaobowuguan/"
+  jump_url: "http://Tongchuan.cncn.com/jingdian/yaozhouyaobowuguan/"
+}
+item {
+  title: "三原城隍庙介绍_三原城隍庙简介"
+  desc: " 三原城隍庙简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：42元；26元为邮资门票。学生、军人凭证半价，持�..."
+  show_url: "http://Xianyang.cncn.com/jingdian/sanyuanchenghuangmiao/"
+  jump_url: "http://Xianyang.cncn.com/jingdian/sanyuanchenghuangmiao/"
+}
+item {
+  title: "旬邑唐家民俗博物馆介绍_旬邑唐家民俗博物馆简介"
+  desc: " 旬邑唐家民俗博物馆简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：15元白天工作时间 交通概况：自驾路线：..."
+  show_url: "http://Xianyang.cncn.com/jingdian/xunyitangjiaminsubowuguan/"
+  jump_url: "http://Xianyang.cncn.com/jingdian/xunyitangjiaminsubowuguan/"
+}
+item {
+  title: "旬邑唐家民俗博物馆介绍_旬邑唐家民俗博物馆简介"
+  desc: " 旬邑唐家民俗博物馆简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：15元白天工作时间 交通概况：自驾路线：..."
+  show_url: "http://Xianyang.cncn.com/jingdian/xunyitangjiaminsubowuguan/"
+  jump_url: "http://Xianyang.cncn.com/jingdian/xunyitangjiaminsubowuguan/"
+}
+item {
+  title: "铜川锦阳湖生态园介绍_锦阳湖生态园简介"
+  desc: " 铜川锦阳湖生态园简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：欣欣门票价：10元起。\r A.免票政策：身高1�..."
+  show_url: "http://Tongchuan.cncn.com/jingdian/jinyanghushengtaiyuan/"
+  jump_url: "http://Tongchuan.cncn.com/jingdian/jinyanghushengtaiyuan/"
+}
+item {
+  title: "铜川耀州窑博物馆介绍_耀州窑博物馆简介"
+  desc: " 铜川耀州窑博物馆简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：\r     35元。持2008陕西旅游年票不限次数免..."
+  show_url: "http://Tongchuan.cncn.com/jingdian/yaozhouyaobowuguan/"
+  jump_url: "http://Tongchuan.cncn.com/jingdian/yaozhouyaobowuguan/"
+}
+item {
+  title: "嘉陵江源头景区介绍_嘉陵江源头简介"
+  desc: " 嘉陵江源头景区简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：欣欣成人门票价：50元起（省10元）；\r 特惠政..."
+  show_url: "http://Baoji.cncn.com/jingdian/jialingjiangyuantou/"
+  jump_url: "http://Baoji.cncn.com/jingdian/jialingjiangyuantou/"
+}
+item {
+  title: "合阳洽川风景名胜区介绍_合阳洽川风景名胜区简介"
+  desc: " 合阳洽川风景名胜区简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：    41元。持2008年陕西旅游年票可免费�..."
+  show_url: "http://Weinan.cncn.com/jingdian/heyangqiachuanfengjingmingshengqu/"
+  jump_url: "http://Weinan.cncn.com/jingdian/heyangqiachuanfengjingmingshengqu/"
+}
+item {
+  title: "合阳洽川风景名胜区介绍_合阳洽川风景名胜区简介"
+  desc: " 合阳洽川风景名胜区简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：    41元。持2008年陕西旅游年票可免费�..."
+  show_url: "http://Weinan.cncn.com/jingdian/heyangqiachuanfengjingmingshengqu/"
+  jump_url: "http://Weinan.cncn.com/jingdian/heyangqiachuanfengjingmingshengqu/"
+}
+item {
+  title: "宝鸡太白山水上世界介绍_太白山水上世界简介"
+  desc: " 宝鸡太白山水上世界简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：通票+6D电影：320元10:00--18:00 交通概况：�..."
+  show_url: "http://Baoji.cncn.com/jingdian/taibaishanshuishangshijie/"
+  jump_url: "http://Baoji.cncn.com/jingdian/taibaishanshuishangshijie/"
+}
+item {
+  title: "延安市黄帝陵景区介绍_黄帝陵简介"
+  desc: " 延安市黄帝陵景区简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：欣欣票价：85元起（省6元）。\r 优惠政策：�..."
+  show_url: "http://Yanan.cncn.com/jingdian/huangdiling/"
+  jump_url: "http://Yanan.cncn.com/jingdian/huangdiling/"
+}
+item {
+  title: "铜川药王山介绍_药王山简介"
+  desc: " 铜川药王山简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：90元\r A.免票政策：儿童身高1米以下免票；老人凭�..."
+  show_url: "http://Tongchuan.cncn.com/jingdian/yaowangshan/"
+  jump_url: "http://Tongchuan.cncn.com/jingdian/yaowangshan/"
+}
+item {
+  title: "湫燕山周恩来遇险地介绍_湫燕山周恩来遇险地简介"
+  desc: " 湫燕山周恩来遇险地简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：暂无信息    湫燕山周恩来遇险地简介：\r ..."
+  show_url: "http://Yanan.cncn.com/jingdian/qiuyanshanzhouenlaiyuxiandi/"
+  jump_url: "http://Yanan.cncn.com/jingdian/qiuyanshanzhouenlaiyuxiandi/"
+}
+item {
+  title: "秦岭观华山介绍_观华山简介"
+  desc: " 秦岭观华山简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：欣欣成人门票价：40元起（省10元）；\r 欣欣儿童门..."
+  show_url: "http://Shangluo.cncn.com/jingdian/qinlingguanhuashan/"
+  jump_url: "http://Shangluo.cncn.com/jingdian/qinlingguanhuashan/"
+}
+item {
+  title: "金丝大峡谷国家森林公园介绍_金丝峡简介"
+  desc: " 金丝大峡谷国家森林公园简介  http://www.cncn.com    欣欣旅游网    门票·开放时间：120元。A.免费政策：儿童身高1.2米以�..."
+  show_url: "http://Shangluo.cncn.com/jingdian/jinsixia/"
+  jump_url: "http://Shangluo.cncn.com/jingdian/jinsixia/"
+}
+item {
+  title: "汉中张良庙介绍_张良庙简介"
+  desc: " 汉中张良庙简介  http://www.cncn.
