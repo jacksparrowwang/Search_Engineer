@@ -3,6 +3,7 @@
 
 DEFINE_int32(desc_max_size, 160, "描述的最大长度");
 
+
 namespace doc_server {
 
 bool DocSearcher::Search(const Request& req, Response* resp) {

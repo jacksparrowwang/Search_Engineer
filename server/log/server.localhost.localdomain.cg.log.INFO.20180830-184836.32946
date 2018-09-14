@@ -1,7 +1,0 @@
-Log file created at: 2018/08/30 18:48:36
-Running on machine: localhost.localdomain
-Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
-I0830 18:48:36.872972 32946 index.cc:241] Index Load
-I0830 18:48:36.902082 32946 index.cc:247] Index Load Done
-I0830 18:48:36.902103 32946 server_main.cc:48] Index Load Done!
-I0830 18:48:37.105633 32946 server_main.cc:63] server start

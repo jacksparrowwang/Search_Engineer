@@ -5,8 +5,7 @@
 
 namespace doc_server {
 
-typedef doc_server_proto::Request Request;
-typedef doc_server_proto::Response Response;
+:v：:：:ypedef doc_server_proto::Response Response;
 typedef doc_index_proto::Weight Weight;
 typedef doc_index::Index Index;
 

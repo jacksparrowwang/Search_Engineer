@@ -224,13 +224,16 @@ bool Index::ConvertToProto(std::string* proto_data) {
   }
   // 2. 设置倒排
   for (const auto& inverted_pair : inverted_index_) {
+    // 将类中的invertd_index_哈希表遍历，分别设置到index中，进行序列化
     auto* kwd_info = index.add_inverted_index();
     kwd_info->set_key(inverted_pair.first);
+    // 在用迭代器遍历哈希表的结点，拿出value，value是一个vector中的weight，然后分别去赋值
     for (const auto& weight : inverted_pair.second) {
       auto* proto_weight = kwd_info->add_doc_list();
       *proto_weight = weight;
     }
   }
+  // 进行序列化
   index.SerializeToString(proto_data);
   return true;
 }
@@ -259,9 +262,11 @@ bool Index::ConvertFromProto(const std::string& proto_data) {
   // 3. 把倒排索引数据放到内存中
   for (int i = 0; i < index.inverted_index_size(); ++i) {
     const auto& kwd_info = index.inverted_index(i);
+    // 这里就是把索引的用哈希[]的形式插入到哈希中key
     InvertedList& inverted_list
               = inverted_index_[kwd_info.key()];
     for (int j = 0; j < kwd_info.doc_list_size(); ++j) {
+    // 这里是插入value
       const auto& weight = kwd_info.doc_list(j);
       inverted_list.push_back(weight);
     }
